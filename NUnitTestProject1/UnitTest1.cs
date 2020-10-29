@@ -5,8 +5,9 @@ namespace NUnitTestProject1
 {
     public class Tests
     {
+        
         InvoiceGenerator invoiceGenerator = null;
-        [SetUp]
+        [Test]
         public void GivenDistanceAndTimeShouldReturnTotalFare()
         {
             invoiceGenerator = new InvoiceGenerator(RideType.NORMAL);
