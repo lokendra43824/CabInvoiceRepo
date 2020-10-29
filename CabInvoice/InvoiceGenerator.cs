@@ -19,7 +19,7 @@ namespace CabInvoice
             this.rideRepository = new RideRepository();
             try
             {
-                if (rideType.Equals(RideType.PREMUIM))
+                if (rideType.Equals(RideType.PREMIUM))
                 {
                     this.MINIMUM_COST_PER_KM = 15;
                     this.COST_PER_TIME = 2;
