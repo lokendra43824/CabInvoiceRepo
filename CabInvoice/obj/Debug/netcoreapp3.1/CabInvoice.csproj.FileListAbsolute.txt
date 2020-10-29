@@ -1,0 +1,13 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\bin\Debug\netcoreapp3.1\CabInvoice.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\bin\Debug\netcoreapp3.1\CabInvoice.deps.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\bin\Debug\netcoreapp3.1\CabInvoice.runtimeconfig.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\bin\Debug\netcoreapp3.1\CabInvoice.runtimeconfig.dev.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\bin\Debug\netcoreapp3.1\CabInvoice.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\bin\Debug\netcoreapp3.1\CabInvoice.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\obj\Debug\netcoreapp3.1\CabInvoice.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\obj\Debug\netcoreapp3.1\CabInvoice.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\obj\Debug\netcoreapp3.1\CabInvoice.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\obj\Debug\netcoreapp3.1\CabInvoice.csproj.CoreCompileInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\obj\Debug\netcoreapp3.1\CabInvoice.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\obj\Debug\netcoreapp3.1\CabInvoice.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\CabInvoice\CabInvoice\obj\Debug\netcoreapp3.1\CabInvoice.genruntimeconfig.cache
