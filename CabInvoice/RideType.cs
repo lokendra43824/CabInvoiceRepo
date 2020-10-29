@@ -7,6 +7,7 @@ namespace CabInvoice
 
     public enum RideType
     {
-        NORMAL, PREMUIM
+        NORMAL, PREMIUM,
+       
     }
 }
